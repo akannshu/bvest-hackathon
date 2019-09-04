@@ -24,13 +24,11 @@ const Venue = () => {
                     <i class="fas fa-map-marker-alt fa-3x"></i>
                     <span>
 
-                    SAJS
+                    BVCOE
 
                     </span>
                     <div className="add">
-                    Sector 14, Vasundhara, Ghaziabad, Uttar Pradesh - 201012
-                    Nearest Metro Station - Vaishali ( Blue Line)
-
+                    A-4 Block, Baba Ramdev Marg, Shiva Enclave, Paschim Vihar, New Delhi, Delhi 110063
                     </div>
                    
 

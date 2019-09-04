@@ -5,7 +5,7 @@ import Timeline from './components/timeline/Timeline';
 import Prize from './components/prize/Prize';
 import Themes from './components/Themes/Themes';
 import Venue from './components/Venue/Venue';
-import Judge from './components/Judges/Judge';
+
 import Sponsor from './components/Sponsors/Sponsors';
 import Faq from './components/faq/Faq';
 import Footer from './components/Footer/Footer';
@@ -18,10 +18,11 @@ function App() {
       <Header/>
       <About/>
       <Timeline/>
-      <Prize/>
+     
       <Themes/>
       <Venue/>
-      <Judge/>
+      <Prize/>
+      
       <Sponsor/>
       <Faq/>
       <Footer/>

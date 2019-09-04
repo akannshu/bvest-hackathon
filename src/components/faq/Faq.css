@@ -3,8 +3,8 @@
    
     width: 100%;
     font-family: 'Raleway', sans-serif;
-    background: rgb(25,47,135);
-    background: linear-gradient(180deg, #152873 0%, rgba(1,4,12,1) 100%);
+    background: rgb(0,0,0);
+ 
     color: white;
     padding: 5% 7%;
 }

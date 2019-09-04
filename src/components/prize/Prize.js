@@ -42,7 +42,7 @@ const Prize = () => {
             </div>
           </div>
           <div className="col-lg-7 col-sm-12 graphic">
-              <img src={require('../../assets/gifts.svg')}/>
+              <img src={require('../../assets/awards.jpg')}/>
           </div>
       </div>
     </div>

@@ -4,20 +4,22 @@ import './Footer.css';
 const Footer = () => {
 
 
-   
-    
+
+
 
     return(
 
         <div className="footer">
 
-         
+
                     <div className="con">
-                        <img src={require('../../assets/hack_jaipuria.png')}/>
+                       <h1>
+                           BVEST
+                       </h1>
                         <a href="mailto:kunalagg04@gmail.com">
 
                             <div className="email">
-                                hackjaipuria@gmail.com
+                                bvest@gmail.com
                             </div>
 
                             </a>
@@ -29,22 +31,22 @@ const Footer = () => {
 
                             <a href="tel: 8076989248">
                             <i class="fas fa-phone-alt"></i>
-                            </a> 
+                            </a>
 
                             </div>
 
                             <div className="details">
-                            <i class="far fa-copyright"></i> Hack@Jaipuria , Seth Anandram Jaipuria School | Designed with <i class="fas fa-heart"></i> &amp; <i class="fas fa-coffee"></i> by Team-Hack@Jaipuria
-                            
+                            <i class="far fa-copyright"></i> Hack@Bvest , Bharati Vidyapeeth College of Engineering
+
                             </div>
 
-                        
+
                     </div>
 
 
-              
-                
-    
+
+
+
         </div>
 
     );

@@ -1,5 +1,5 @@
 .prize{
-    background: url(../../assets/prize.jpg);
+    background: black;
     height: 100vh;
     width:100%;
 }
@@ -26,7 +26,7 @@
 
 .prize .graphic img{
     width: 90%;
-    margin-top:20%;
+    margin-top:15%;
 }
 
 .row{

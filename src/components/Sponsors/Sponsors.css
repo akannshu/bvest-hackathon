@@ -2,10 +2,10 @@
    
     width:100%;
     font-family: 'Raleway', sans-serif;
-    background: rgb(16,19,24);
+    background : black;
     color:white;
     margin-top:-10vh;
-background: linear-gradient(180deg, rgba(0,0,0,1) 0%, #152873 100%);
+
 }
 
 .sponsors .head{

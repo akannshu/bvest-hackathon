@@ -63,7 +63,7 @@ items.forEach(item => item.addEventListener('click', toggleAccordion));
     <a>When ? </a>
     <div class="content">
       <p>
-      HackJaipuria will be a 24 hours hackathon which will stretch from 23rd October to 24th October 2019.
+      HackBVEST will be a 24 hours hackathon which will stretch from 23rd October to 24th October 2019.
       </p>
       </div>
 
@@ -72,7 +72,7 @@ items.forEach(item => item.addEventListener('click', toggleAccordion));
   <div class="accordion-item">
     <a>Where ?</a>
     <div class="content">
-      <p> Seth Anandram Jaipuria School , Sector - 14C , Vasundhra , Ghaziabad</p>
+      <p> BVCOE , Paschim Vihar , New Delhi</p>
     </div>
   </div>
   <div class="accordion-item">
@@ -112,25 +112,7 @@ items.forEach(item => item.addEventListener('click', toggleAccordion));
 
           </li>
 
-          <li>
-          Design/Feasibility: The project made should be feasible.
-   </li>
-
-          <li>
-          Innovation: Innovative ideas are always welcome, and would be greatly appreciated.
-
-          </li>
-
-          <li>
-          Functional Scope: The project should be working.
-
-
-          </li>
-
-          <li>
-          Presentation: As the saying goes, extra marks for good handwriting (figuratively speaking).
-
-          </li>
+         
 
         </ul>
       </p>

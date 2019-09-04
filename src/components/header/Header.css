@@ -3,17 +3,18 @@
     width: 100%;
     height: 130vh;
     background-size: cover;
-    background-image: url(../../assets/larabg.jpg);
+    background-image: url(../../assets/l-bg.svg);
     /* background-color: black; */
     overflow: hidden;
 }
 
 .mdicon{
-    margin-right: 1%;
+    margin-right: 2%;
+    color: white;
 }
 
 .fa-gifts{
-    margin-right: 1%;
+    margin-right: 2%;
     margin-left: 0%;
 }
 
@@ -22,8 +23,8 @@
 }
 
 #logo{
-    
-  
+
+
 }
 
 #logo .fab{
@@ -39,32 +40,44 @@
 
 
 #content{
-    margin: 0 auto;
+    margin-left: 3%;
     margin-top: -42%;
     position: relative;
     z-index: 10;
     width: 55%;
-    text-align: center;
+    text-align: left;
     color: aliceblue;
-    
-    
+
+
 
 }
 
 .land-nav{
     padding-top:2%;
-    text-align: right;
-    margin-right: 3%;
-    
+    padding-left: 2%;
+
+}
+
+.land-nav .slogo{
+    width: 40%;
+    display: inline-block;
+}
+
+.land-nav .slogo img{
+    width: 40%;
 }
 
 .land-nav .icons{
-    
+    float: right;
+    text-align: right;
+    width: 40%;
+    padding-right: 1%;
+
 }
 
 .land-nav i{
     color: white;
-    margin-left: 30px;
+    margin-left: 40px;
     transition: all 1s;
 }
 
@@ -76,20 +89,24 @@
     width: 10%;
 }
 
+.jlogo{
+    width: 7%;
+}
+
 #head0{
     font-weight: normal;
     font-style: normal;
-    font-size: 2.5em;
+    font-size: 2em;
     font-weight: 350;
     text-transform: uppercase;
     font-family: 'Righteous', cursive;
 }
 
 #head1{
-    
 
-    font-size: 1.1em; 
-   
+
+    font-size: 1.1em;
+
     font-weight: 100;
     margin-top:2%;
     font-family: 'Open Sans', sans-serif;
@@ -98,7 +115,7 @@
 }
 
 #heading{
-     
+
     font-weight: normal;
     font-style: normal;
     font-size: 4.9em;
@@ -114,8 +131,8 @@
 }
 
 #content .details {
-    width: 75%;
-    margin: 0 auto;
+    width: 90%;
+
     margin-top:2%;
     font-family: 'Righteous', cursive;
     text-align: left;
@@ -126,7 +143,7 @@
 #content .details i{
     margin-right: 3%;
 }
-/* 
+/*
 #content .col-7{
     float: right;
 } */
@@ -150,8 +167,8 @@
     border : none;
     width: 12em;
     height: 3em;
-    border-radius: 30px; 
-    
+    border-radius: 30px;
+
 }
 
 
@@ -161,7 +178,7 @@
 
 .rocket img{
     width:100%;
-   
+
     margin-left: -20%;
     margin-top: -10%;
 
@@ -184,7 +201,7 @@
     font-family: 'Raleway', sans-serif;
     border-bottom-right-radius:12px !important;
     border-top-left-radius: 12px;
-    
+
 }
 
 .rbut button:hover{
@@ -194,7 +211,7 @@
 #card{
 
     margin-left: 100px;
-   
+
   }
 
 
@@ -211,9 +228,9 @@
     margin-top:-220%;
     font-family: 'Righteous', cursive;
     /* margin-bottom: 1%; */
-    
-   
-   
+
+
+
 }
 
 .mob-head .l-top{
@@ -231,7 +248,7 @@
 .mob-head .head{
     color:white;
     width:100%;
-    
+
 
     padding-top:17%;
     text-align: center;
@@ -293,8 +310,8 @@
     width:100%;
     text-align: center;
 
-    margin-top:6%;    
-    
+    margin-top:6%;
+
 }
 
 .mob-head .buttons img{
@@ -319,7 +336,7 @@
     height: 30vh;
     overflow: hidden;
     width:100%;
-    
+
     position: absolute;
     z-index:5;
     top:70vh;
@@ -330,15 +347,15 @@
     width:80%;
     margin-top: 6%;
 
-   
-    
+
+
 }
 
 .mob-head .rocket{
     vertical-align: bottom;
     position: absolute;
     bottom: 30px;
-    
+
     width:100%;
     text-align: center;
     left:45px;
@@ -353,7 +370,7 @@
 
 
 
-  
+
 .row{
     width: 100%;
     margin-left: 0px;
@@ -367,4 +384,3 @@ background: linear-gradient(180deg, rgba(15,25,50,1) 0%, rgba(1,4,12,1) 100%);
 .ml canvas{
     min-height: 100vh;
 }
-

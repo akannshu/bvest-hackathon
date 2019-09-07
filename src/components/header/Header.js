@@ -145,7 +145,7 @@ class Header extends React.Component{
                                       PRESENTS
                                  </div>
                                  <div id="heading">
-                                     HACK@BVEST 1.0
+                                     HACKIT@1.0
                                  </div>
                                  <div className="details">
                                       <div class="row">

@@ -186,7 +186,31 @@ class Header extends React.Component{
             return(
 
                 <div className="ml">
-                  hi
+                    <div class="headbar">
+                      <div class="sub-headbar">
+                        <div class="headbar-item" ><a class="logo1" href="#">BVEST</a></div>
+                        <div class="links-div">
+                          <a href="#" class="link">Home</a>
+                          <a href="#" class="link">FAQ</a>
+                          <a href="#" class="link">Contact</a>
+                          <a href="#" class="link">Team</a>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="below-head">
+                        HACKIT@1.0
+                        <div>
+                        <i class="fas fa-calendar-week"></i>
+                        10th - 11th October 2019
+                        </div>
+                        <div className="">
+                        <i class="fas fa-map-marker-alt"></i>
+                        Bharti Vidyapeeth College of Engineering
+                        </div>
+                        <div className="rbut">
+                        <button type="button" class="btn btn-danger">Apply Now</button>
+                        </div>
+                    </div>
               </div>
             );
         }

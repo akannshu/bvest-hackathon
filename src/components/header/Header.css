@@ -1,5 +1,6 @@
 #header{
     position: relative;
+    cursor: pointer;
     width: 100%;
     height: 130vh;
     background-size: cover;
@@ -30,6 +31,68 @@
 #logo .fab{
     color: #8A97A3;
     margin-top: 10px;
+}
+
+
+.headbar {
+  width: 100%;
+  height: 4rem;
+  background-color: black; /*primary color */
+  border-bottom: 3px solid #323232;
+  cursor: pointer;
+  color: white;
+}
+/*  #00bfa5 secondary color */
+.sub-headbar {
+  width: 95%;
+  height: 100%;
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+  font-size: 1.5rem;
+  color: white;
+}
+.headbar-item {
+  width: 17%;
+  color: white;
+}
+.logo1{
+  color: white;
+}
+.below-head{
+  text-align: center;
+  font-size: 250%;
+  color: white;
+  margin-top: 10%;
+}
+.below-head div{
+  margin-top: 10%;
+  font-size: 50%;
+}
+.calender{
+  text-align: center;
+  font-size: 150%;
+  color: white;
+  margin-top: 10%;
+}
+.header {
+  text-align: center;
+  color: white;
+}
+.links-div {
+  display: flex;
+  width: 17%;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-right: 6%;
+  color: white;
+}
+.link {
+  margin: 0 0.6rem;
+  color: white;
 }
 
 .fab:hover{

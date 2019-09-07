@@ -18,11 +18,11 @@ function App() {
       <Header/>
       <About/>
       <Timeline/>
-     
+
       <Themes/>
       <Venue/>
       <Prize/>
-      
+
       <Sponsor/>
       <Faq/>
       <Footer/>

@@ -3,9 +3,9 @@ import './Sponsors.css';
 import Particles from 'react-particles-js';
 
 
-const particleOpt = { 
+const particleOpt = {
 
-    particles : {   
+    particles : {
         number : {
             value : 120,
             density : {
@@ -14,9 +14,9 @@ const particleOpt = {
             }
         },
 
-        
 
-      
+
+
     } ,
 
     "interactivity": {
@@ -25,7 +25,7 @@ const particleOpt = {
             onresize: {
                 enable: true,
                 // density_auto: true,
-                // density_area : 400 
+                // density_area : 400
                 // nb_particles = particles.nb * (canvas width *  canvas height / 1000) / density_area
               },
 
@@ -43,15 +43,15 @@ const particleOpt = {
 const Sponsors = () => {
 
 
-   
-    
+
+
 
     return(
 
         <div className="sp">
             <Particles className='particles' params={particleOpt}/>
         <div className="sponsors">
-            
+
             <div className="head">
                 Sponsors
             </div>
@@ -59,44 +59,23 @@ const Sponsors = () => {
             <div className="content">
                 <div class="row">
                     <div class="col-lg-4">
-     
-                    <img className="google" src={require('../../assets/google.png')}/>
+
+                    <img className="codingblocks" src={require('../../assets/coding3.png')}/>
+                    </div>
+
+                    <div className="" class="col-lg-4">
+
+                    <img src={require('../../assets/nagarro2.png')}/>
+
                     </div>
 
                     <div class="col-lg-4">
-
-                    <img src={require('../../assets/microsoft.png')}/>
-                        
-                    </div>
-
-                    <div class="col-lg-4">
-                    <img className="google" src={require('../../assets/mozilla.png')}/>
-                        
                     </div>
                 </div>
 
 
-                <div class="row bo" >
-                    <div class="col-lg-4">
-     
-                    <img className="google" src={require('../../assets/mozilla.png')}/>
-                    </div>
-
-                    <div class="col-lg-4">
-
-                    <img src={require('../../assets/microsoft.png')}/>
-                        
-                    </div>
-
-                    <div class="col-lg-4">
-                    <img className="google" src={require('../../assets/google.png')}/>
-                        
-                    </div>
-                </div>
-               
-               
             </div>
-         
+
         </div>
         </div>
 

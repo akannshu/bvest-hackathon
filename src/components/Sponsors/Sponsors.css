@@ -1,5 +1,5 @@
 .sponsors{
-   
+
     width:100%;
     font-family: 'Raleway', sans-serif;
     background : black;
@@ -12,7 +12,7 @@
     font-size: 3.0em;
     font-weight: 600;
     text-align: center;
-    margin-top: -55%;
+    margin-top: -54%;
 }
 
 .sponsors .content{
@@ -32,6 +32,10 @@
     margin: 0 auto;
 }
 
+.codingblocks{
+  height: 58%;
+}
+
 .sponsors .bo{
     margin-top: 5%;
 }
@@ -46,7 +50,7 @@
 
     .sponsors .content .google{
         width: 30%;
-        
+
     }
 
     .sponsors .head{

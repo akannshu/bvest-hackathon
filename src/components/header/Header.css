@@ -41,6 +41,12 @@
   height: 300%;
 }
 
+#devfolio-apply-now-mobile{
+  height:24px;
+  width:24px;
+  margin-right:8px;
+}
+
 .headbar {
   width: 100%;
   height: 4rem;

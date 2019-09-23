@@ -26,7 +26,7 @@ const Prize = () => {
                    <div className="col-lg-9 col-sm-12">
 
                    <Pcard
-                      pr="2 st Pr"
+                      pr="2 st Prize"
                       money="Worth 5 lakhs INR"
                       width="90%" />
 

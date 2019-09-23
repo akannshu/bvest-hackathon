@@ -16,7 +16,7 @@ const Prize = () => {
                 <div className="dis">
                    <Pcard
                      pr="1 st Prize"
-                     money="INR 20k" />
+                     money="Worth 7 lakhs INR" />
                 </div>
                 <div className="dis mid">
                  <div className="row">
@@ -26,18 +26,18 @@ const Prize = () => {
                    <div className="col-lg-9 col-sm-12">
 
                    <Pcard
-                      pr="2 st Prize"
-                      money="INR 10k"
+                      pr="2 st Pr"
+                      money="Worth 5 lakhs INR"
                       width="90%" />
 
                    </div>
                  </div>
-                
+
                 </div>
                 <div className="dis">
                    <Pcard
                      pr="3 st Prize"
-                     money="INR 5k"/>
+                     money="Worth 3 lakhs INR"/>
                 </div>
             </div>
           </div>

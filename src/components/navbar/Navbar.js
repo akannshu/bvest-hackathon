@@ -10,7 +10,7 @@ class Navbar extends React.Component {
         document.querySelector("#ham").style.display="none";
         document.querySelector("#ham2").style.display="block";
         document.querySelector(".top-bar").style.background="rgb(0,0,0)"
-        
+
     }
 
     navHide(){
@@ -18,47 +18,47 @@ class Navbar extends React.Component {
         document.querySelector("#ham2").style.display="none";
         document.querySelector("#ham").style.display="block";
         document.querySelector(".top-bar").style.background="rgba(0,0,0,0.1)"
-        
+
     }
 
 
     render(){
 
-    
-    if(document.body.offsetWidth > 600) {
+
+    if(document.body.offsetWidth > 700) {
     return(
 
         <nav class="navbar navbar-expand-lg navbar-dark bg-light">
-            
+
                 {/* <Link class="navbar-brand" to="/">
-                     <img id="navlogo" alt="logo" src={require("../../assets/logo.webp")}></img> 
+                     <img id="navlogo" alt="logo" src={require("../../assets/logo.webp")}></img>
                 </Link> */}
-            
+
 
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
                  <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarText">
                 <ul class="navbar-nav ml-auto">
-                    
+
                     <li class="nav-item active">
                          <a className="nav-link"> Courses<span class="sr-only">(current)</span></a>
                      </li>
-                    
+
                     <li class="nav-item active">
                          <a className="nav-link"> Blog</a>
                      </li>
-                    
+
                      <li class="nav-item active">
-                       <a className="nav-link">Login</a></li> 
-                    
+                       <a className="nav-link">Login</a></li>
+
                      <li class="nav-item">
                          <button id="butcontact" type="button" class="btn btn-primary">Contact Us</button>
                      </li>
 
                 </ul>
               </div>
-            </nav> 
+            </nav>
     );
     }
 
@@ -74,7 +74,7 @@ class Navbar extends React.Component {
                     </span>
                     <span id="ham2" onClick={this.navHide}>
                     <img id="ham-icon-2" src={require('../../assets/hamburger.png')}></img>
-                    </span>   
+                    </span>
                 </div>
 
                 <div className="hidden-box">
@@ -95,10 +95,10 @@ class Navbar extends React.Component {
                     <div><Link to="/signup">
                         Sign Up
                         </Link></div>
-                  
+
 
                     </div>
-                   
+
                     <div className="sm-dis">
                        <div>
                        <i class="fab fa-github fa-2x"></i>
@@ -114,7 +114,7 @@ class Navbar extends React.Component {
                        </div>
 </div>
                 </div>
-               
+
             </div>
         );
     }

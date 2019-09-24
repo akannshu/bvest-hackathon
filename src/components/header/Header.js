@@ -56,7 +56,7 @@ class Header extends React.Component{
 
     render(){
 
-        if(document.body.offsetWidth > 300){
+        if(document.body.offsetWidth > 600){
         return(
          <div>
              <div id="header">

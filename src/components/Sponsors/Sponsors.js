@@ -60,24 +60,30 @@ const Sponsors = () => {
                 <div class="row">
                     <div class="col-lg-4">
 
-                    <img className="codingblocks" src={require('../../assets/Matic.png')}/>
+                    <img className="codingblocks" src={require('../../assets/matic3.jpeg')}/>
                     </div>
 
                     <div className="" class="col-lg-4">
 
-                    <img src={require('../../assets/devfolio.png')}/>
+                    <img src={require('../../assets/devfolio3.jpeg')}/>
 
                     </div>
 
                     <div className="wolf" class="col-lg-4">
 
-                    <img src={require('../../assets/wolfram.webp')}/>
+                    <img src={require('../../assets/wolfram3.jpeg')}/>
 
                     </div>
 
                     <div className="" class="col-lg-4">
 
                     <img src={require('../../assets/bugsee.png')}/>
+
+                    </div>
+
+                    <div  class="col-lg-4">
+
+                    <img className="github" src={require('../../assets/github.png')}/>
 
                     </div>
 

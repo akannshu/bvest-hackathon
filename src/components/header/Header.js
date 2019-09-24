@@ -194,7 +194,7 @@ class Header extends React.Component{
                       <div class="sub-headbar">
                         <div class="headbar-item" ><a class="logo1" href="#">BVEST</a></div>
                         <div class="links-div">
-                          <a href="#" class="link">Home</a>
+                          <a href="https://bvest.tech/" class="link">Home</a>
                           <a href="#" class="link">FAQ</a>
                           <a href="#" class="link">Contact</a>
                           <a href="#" class="link">Team</a>

@@ -56,7 +56,7 @@ class Header extends React.Component{
 
     render(){
 
-        if(document.body.offsetWidth > 600){
+        if(document.body.offsetWidth > 300){
         return(
          <div>
              <div id="header">
@@ -155,7 +155,7 @@ class Header extends React.Component{
                                           </div>
                                           <div className="col-7">
                                           <i class="fas fa-map-marker-alt"></i>
-                                          Bharti Vidyapeeth College of Engineering
+                                          Bharati Vidyapeeth's College of Engineering
                                           </div>
                                       </div>
                                  </div>

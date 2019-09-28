@@ -83,7 +83,7 @@ const Sponsors = () => {
 
                     <div  class="col-lg-4">
 
-                    <img className="github" src={require('../../assets/github.png')}/>
+                    <img className="github" src={require('../../assets/github6.png')}/>
 
                     </div>
 

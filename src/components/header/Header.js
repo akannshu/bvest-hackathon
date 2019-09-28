@@ -65,7 +65,7 @@ class Header extends React.Component{
                  <div className="land-nav">
 
                       <div className="slogo">
-                          {/* logo here  */}
+                          <img src={require('../../assets/hackit.jpeg')}/>
                       </div>
 
 
@@ -180,7 +180,7 @@ class Header extends React.Component{
                 <div className="ml">
                     <div class="headbar">
                       <div class="sub-headbar">
-                        <div class="headbar-item" ><a class="logo1" href="#">BVEST</a></div>
+                        <div class="headbar-item" ><a class="logo1" href="#"><img src={require('../../assets/hackit.jpeg')}/></a></div>
                         <div class="links-div">
                           <a href="https://bvest.tech/" class="link">Home</a>
                         </div>

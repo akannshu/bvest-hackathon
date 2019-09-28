@@ -41,7 +41,7 @@ items.forEach(item => item.addEventListener('click', toggleAccordion));
     </div>
     <div class="accordion-item" >
     <div class="accordian-ques">What should I expect from this course? <i class="fas fa-plus" onClick={this.answerb}></i><i class="fas fa-minus" onClick={this.questionb}></i></div>
-    
+
       <div class="contenta"  id="c2">
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum sagittis vitae et leo duis ut. Ut tortor pretium viverra suspendisse potenti.</p>
       </div>
@@ -103,6 +103,14 @@ items.forEach(item => item.addEventListener('click', toggleAccordion));
   </div>
 
   <div class="accordion-item">
+    <a>Will I get Travel Reimbursement?</a>
+    <div class="content">
+      <p> Sorry, We won't be able to provide travel reimbursement this year.</p>
+    </div>
+  </div>
+
+
+  <div class="accordion-item">
     <a>What's the criteria for judgement?</a>
     <div class="content">
       <p>
@@ -112,7 +120,7 @@ items.forEach(item => item.addEventListener('click', toggleAccordion));
 
           </li>
 
-         
+
 
         </ul>
       </p>
@@ -124,11 +132,11 @@ items.forEach(item => item.addEventListener('click', toggleAccordion));
 
 
     </div>
- 
+
   </div>
-  
-                   
-               
+
+
+
 
         );
     }

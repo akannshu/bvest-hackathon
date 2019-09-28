@@ -60,12 +60,12 @@ const Sponsors = () => {
                 <div class="row">
                     <div class="col-lg-4">
 
-                    <img className="codingblocks" src={require('../../assets/matic3.jpeg')}/>
+                    <img className="codingblocks" src={require('../../assets/matic4.jpeg')}/>
                     </div>
 
-                    <div className="" class="col-lg-4">
+                    <div className="devfolio" class="col-lg-4">
 
-                    <img src={require('../../assets/devfolio3.jpeg')}/>
+                    <img src={require('../../assets/devfolio4.jpeg')}/>
 
                     </div>
 

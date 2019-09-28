@@ -180,7 +180,7 @@ class Header extends React.Component{
                 <div className="ml">
                     <div class="headbar">
                       <div class="sub-headbar">
-                        <div class="headbar-item" ><a class="logo1" href="#"><img src={require('../../assets/hackit.jpeg')}/></a></div>
+                        <div class="headbar-item" ><img class="logo1" src={require('../../assets/hackit.jpeg')}/></div>
                         <div class="links-div">
                           <a href="https://bvest.tech/" class="link">Home</a>
                         </div>

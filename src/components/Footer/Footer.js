@@ -16,7 +16,7 @@ const Footer = () => {
                        <h1>
                            BVEST
                        </h1>
-                        <a href="mailto:kunalagg04@gmail.com">
+                        <a href="mailto:bvest2019@gmail.com">
 
                             <div className="email">
                                 bvest2019@gmail.com
@@ -29,7 +29,7 @@ const Footer = () => {
                             <a href="https://instagram.com/bvest2019?igshid=ig8hlcxnau5b"><i class="fab fa-instagram fa-lg"></i></a>
                             <i class="fab fa-github-alt fa-lg"></i>
 
-                            <a href="tel: 8076989248">
+                            <a href="tel: 8920836248">
                             <i class="fas fa-phone-alt"></i>
                             </a>
 

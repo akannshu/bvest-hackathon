@@ -132,7 +132,7 @@ function App() {
 
 			</div>
 			<div class="cd-timeline-content">
-				<h2><MdBarcode fontSize="3em" color="#FF4666" />  --> Judging Round - 01 </h2>
+				<h2><MdBarcode fontSize="3em" color="#FF4666" />  --> Judgement Round - 01 </h2>
 
 				<span class="cd-date ev">01:00 AM</span>
 			</div>
@@ -158,7 +158,7 @@ function App() {
 
 			</div>
 			<div class="cd-timeline-content">
-				<h2> <MdPeople fontSize="3em" color="yellow" /> --> Judging Round - 02 </h2>
+				<h2> <MdPeople fontSize="3em" color="yellow" /> --> Judgement Round - 02 </h2>
 
 				<span class="cd-date ev">10:00 AM</span>
 			</div>
@@ -320,7 +320,7 @@ function App() {
 
 					  </div>
 					  <div class="cd-timeline-content">
-						  <h2><MdBarcode fontSize="2em" color="#FF4666" />  > Judging Round - 01 </h2>
+						  <h2><MdBarcode fontSize="2em" color="#FF4666" />  > Judgement Round - 01 </h2>
 
 						  <span class="cd-date ev">01:00 AM</span>
 					  </div>
@@ -346,7 +346,7 @@ function App() {
 
 					  </div>
 					  <div class="cd-timeline-content">
-						  <h2> <MdPeople fontSize="2em" color="yellow" /> >  Juding Round - 02 </h2>
+						  <h2> <MdPeople fontSize="2em" color="yellow" /> >  Judgement Round - 02 </h2>
 
 						  <span class="cd-date ev">07:00 PM</span>
 					  </div>

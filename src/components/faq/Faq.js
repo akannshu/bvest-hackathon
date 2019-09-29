@@ -63,7 +63,7 @@ items.forEach(item => item.addEventListener('click', toggleAccordion));
     <a>When ? </a>
     <div class="content">
       <p>
-      HackBVEST will be a 24 hours hackathon which will stretch from 23rd October to 24th October 2019.
+      HackBVEST will be a 24 hours hackathon which will stretch from 10th October to 11th October 2019.
       </p>
       </div>
 

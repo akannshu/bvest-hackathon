@@ -348,7 +348,7 @@ function App() {
 					  <div class="cd-timeline-content">
 						  <h2> <MdPeople fontSize="2em" color="yellow" /> >  Judgement Round - 02 </h2>
 
-						  <span class="cd-date ev">07:00 PM</span>
+						  <span class="cd-date ev">10:00 AM</span>
 					  </div>
 					  </div>
 

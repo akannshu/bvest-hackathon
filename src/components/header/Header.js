@@ -53,23 +53,6 @@ const particleOpt = {
 
 class Header extends React.Component{
 
-    componentDidMount = () => {
-    ​​   window.onload = this.loadApplyNowScript();
-    ​​  };
-    ​​
-    ​​  loadApplyNowScript = () => {
-    ​​    const script = document.createElement('script');
-    ​​    script.src = 'https://apply.devfolio.co' :
-    ​​    script.async = true;
-    ​​    document.body.appendChild(script);
-    ​​
-    ​​    script.onload = this.handleLoad;
-    ​​  };
-    ​​
-    ​​  handleLoad = () => {
-    ​​    new Devfolio({ key: 'hackitbvp', buttonSelector: '#devfolio-apply-now' });
-    ​​  };
-
     render(){
 
         if(document.body.offsetWidth > 1000){

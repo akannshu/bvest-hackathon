@@ -65,7 +65,7 @@ const Sponsors = () => {
 
                     <div className="devfolio" class="col-lg-4">
 
-                    <img src={require('../../assets/devfolio4.jpeg')}/>
+                    <img src={require('../../assets/devfolio9.jpg')}/>
 
                     </div>
 

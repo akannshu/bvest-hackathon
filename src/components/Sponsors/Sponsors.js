@@ -97,6 +97,13 @@ const Sponsors = () => {
                     <img className="monktree" src={require('../../assets/monktree.png')}/>
 
                     </div>
+
+                    <div  class="col-lg-4">
+
+                    <img className="tonyinn" src={require('../../assets/tonyinn.png')}/>
+
+                    </div>
+
                 </div>
 
 

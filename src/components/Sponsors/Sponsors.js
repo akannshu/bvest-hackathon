@@ -100,7 +100,7 @@ const Sponsors = () => {
 
                     <div  class="col-lg-4">
 
-                    <img className="tonyinn" src={require('../../assets/tonyinn.png')}/>
+                    <a href="https://www.tonysinn.com/"><img className="tonyinn" src={require('../../assets/tonyinn.png')}/></a>
 
                     </div>
 

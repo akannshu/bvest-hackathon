@@ -29,7 +29,7 @@ const Footer = () => {
                             <a href="https://instagram.com/bvest2019?igshid=ig8hlcxnau5b"><i class="fab fa-instagram fa-lg"></i></a>
                             <i class="fab fa-github-alt fa-lg"></i>
 
-                            <a href="tel: 8920836248">
+                            <a href="tel: ">
                             <i class="fas fa-phone-alt"></i>
                             </a>
 
